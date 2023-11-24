@@ -6,7 +6,7 @@
 - Rangos Private Network Class C: `192.168.0.0` a `192.168.255.255`.
 - Por defecto VirtualBox asigna unha dirección `10.0.2.0/24` en modo NAT.
 - Por defecto VirtualBox asigna unha dirección `192.168.56.0/24` en modo Host-only Network.
-- Podemos mixturar os modos, creando interfaces virutais diferentes.
+- Podemos mixturar os modos, creando interfaces virtuais diferentes.
 
 ## 1. Modo NAT (modo por defecto)
 
