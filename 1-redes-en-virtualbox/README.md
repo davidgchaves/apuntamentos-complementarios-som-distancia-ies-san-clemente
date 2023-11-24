@@ -78,4 +78,4 @@ Si. Antes hai que crear a rede NAT antes na configuración de VirtualBox:
 ![Modo Host-only Network en VirtualBox](./img/5-Networking-in-VirtualBox-Host-only-Network.png)
 
 - Volvemos ter un servidor DHCP.
-- Podemos ter máis de unha rede Host-only.
+- Podemos ter máis dunha rede Host-only.
