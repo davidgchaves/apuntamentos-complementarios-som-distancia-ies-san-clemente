@@ -50,7 +50,7 @@ O resto coincide co modo anterior (NAT). Se queremos permitir conexións entrant
 
 > _Teño que facer algo "extra"?_
 
-Si. Antes hai que crear a rede NAT antes na configuración de VirtualBox:
+Si. Antes hai que crear a rede NAT na configuración de VirtualBox:
 
 - Proporcionará un rango de direccións
 - Habilitará (ou non) o servidor DHCP.
